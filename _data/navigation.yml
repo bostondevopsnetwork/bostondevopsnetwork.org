@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Mission"
+    url: /mission/
+  - title: "Values"
+    url: /values/
+  - title: "Job Fair"
+    url: /job-fair/
+  - title: "Contact"
+    url: /contact/
