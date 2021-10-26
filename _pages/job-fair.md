@@ -15,6 +15,14 @@ All participants should familiarize themselves with:
 * Our Code of Conduct for the event
 * Example Questions that might be asked (by seekers and partners)
 * Join our Hiring Partners, including:
+  * Boston College
+  * f0cal
+  * Harvard University Information Technology
+  * Klaviyo
+  * Pienso
+  * Rocket Insights
+  * Wasabi Technologies
+  * More to come!
 
 <div style="text-align:center">
 <br /><br />
@@ -22,19 +30,8 @@ All participants should familiarize themselves with:
 <h1>Get Involved!</h1>
 <a href="https://bit.ly/bdon-job-fair-2021-partners" target="blank" class="btn btn--success">I AM HIRING</a> <a href="https://bit.ly/bdon-job-fair-2021" target="blank" class="btn btn--success">I AM JOB SEEKING</a>
 </div>
+
 <br />
 
 If you would like to volunteer along with our organizers, please
 [contact us](/contact/) directly.
-
-<br />
-
-<h1>Who's Attending</h1>
-* Boston College
-* f0cal
-* Harvard University Information Technology
-* Klaviyo
-* Pienso
-* Rocket Insights
-* Wasabi Technologies
-* More to come!
