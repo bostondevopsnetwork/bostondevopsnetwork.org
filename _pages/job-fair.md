@@ -22,6 +22,7 @@ All participants should familiarize themselves with:
   * Pienso
   * Rocket Insights
   * Wasabi Technologies
+  * Wayfair
   * More to come!
 
 <div style="text-align:center">
