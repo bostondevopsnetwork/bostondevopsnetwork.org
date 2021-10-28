@@ -12,8 +12,8 @@ The Job fair will start at around 10am and go until 4pm. Job seekers are welcome
 
 All participants should familiarize themselves with:
 
-* Our Code of Conduct for the event
-* Example Questions that might be asked (by seekers and partners)
+* Our [Code of Conduct for the event](/event-code-of-conduct)
+* [Example Questions that might be asked](/example-job-fair-questions) (by seekers and partners)
 * Join our Hiring Partners, including:
   * Boston College
   * f0cal
