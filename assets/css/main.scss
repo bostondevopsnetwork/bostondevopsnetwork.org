@@ -7,6 +7,10 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+$textColor: #444;
+$highlightTextColor: #449;
+$linkHighlightColor: #77C;
+
 /* montserrat-regular - latin */
 @font-face {
   font-family: 'Montserrat';
@@ -39,19 +43,23 @@ html {
 }
 
 a {
-  color:#449;
+  color: $highlightTextColor;
 }
 a:hover {
-  color:#77C;
+  color: $linkHighlightColor;
+  text-decoration: none;
 }
 body, .page__title a {
-  color:#444;
+  color: $textColor;
 }
 
 body, .masthead__inner-wrap, .site-title,
   h1,h2,h3,h4,h5,h6,
   .page__footer-copyright {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+h1,h2,h3,h4,h5,h6 {
+  margin-top:0.5em;
 }
 
 .masthead, #site-nav {
@@ -83,5 +91,40 @@ div.site-subtitle {
   font-size: 2em;
   margin: 1em auto;
   max-width: 80%;
+}
 
+.flexbox {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.flexbox-button {
+  width: auto;
+  margin: 1em;
+  padding: 1em;
+  border: solid 2px $textColor;
+}
+a, .flexbox-button, .flexbox-button a {
+  color: $textColor;
+}
+
+.home-page-list-item {
+  margin-left:0.5em;
+  padding-left:0.5em;
+  margin-bottom:0.5em;
+  border-left:solid 2px green;
+}
+
+.home-page-list-item-partone {
+  min-width:300px;
+  flex:1;
+  align-self:flex-start;
+  margin-right:1em;
+}
+.home-page-list-item-parttwo {
+  min-width:400px;
+  flex:1;
+  align-self:center;
 }
