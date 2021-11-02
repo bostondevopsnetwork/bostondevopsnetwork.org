@@ -17,6 +17,7 @@ All participants should familiarize themselves with:
 * Join our Hiring Partners, including:
   * Boston College
   * f0cal
+  ![image_info(FOCAL_309w.png)
   * Harvard University Information Technology
   * Klaviyo
   * Pienso
