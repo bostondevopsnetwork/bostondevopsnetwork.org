@@ -21,7 +21,7 @@ All participants should familiarize themselves with:
   * Klaviyo
   * Pienso
   * Rocket Insights
-  * ![image info](./img/rocket_logo.png)
+  * ![image info](rocket_logo.png)
   * Wasabi Technologies
   * Wayfair
   * More to come!
