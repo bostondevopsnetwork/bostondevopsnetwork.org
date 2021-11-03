@@ -37,7 +37,7 @@ All participants should familiarize themselves with:
 
 <p align="center">
 <a href="https://www.edx.org"> 
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/EdX_200w.png?raw=true" alt="EdX logo">
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/edX_200w copy.png?raw=true" alt="edX logo">
 </a></p>
 
 <p align="center">
