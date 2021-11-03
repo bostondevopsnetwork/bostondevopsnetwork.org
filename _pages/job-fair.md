@@ -22,6 +22,7 @@ All participants should familiarize themselves with:
   * Harvard University Information Technology
   ![image info](Harvard_300w.png)
   * Klaviyo
+  ![image info](Klayvio_300w.png)
   * Pienso
   * Rocket Insights
   ![image info](rocket_logo_150s.png)
