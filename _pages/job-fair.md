@@ -36,7 +36,7 @@ All participants should familiarize themselves with:
 </p>
 
 <p align="center">
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Klaviyo_300w.png?raw=true" alt="Klaviyo logo"/>
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Klaviyo_300w.png?raw=true" alt="Klaviyo logo"/>&#32;&#32;&#32;&#32;
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Pienso_150w.jpg?raw=true" alt="Pienso logo"/>
 </p>
 
