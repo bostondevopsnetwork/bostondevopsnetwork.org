@@ -27,6 +27,7 @@ All participants should familiarize themselves with:
   ![image info](rocket_logo_150s.png)
   * Wasabi Technologies
   * Wayfair
+  ![image info](Wayfair_300w.png)
   * More to come!
 
 <div style="text-align:center">
