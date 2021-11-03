@@ -20,6 +20,7 @@ All participants should familiarize themselves with:
   * f0cal
   ![image info](FOCAL_309w.png)
   * Harvard University Information Technology
+  ![image info](Harvard_300w.png)
   * Klaviyo
   * Pienso
   * Rocket Insights
