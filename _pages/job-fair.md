@@ -28,7 +28,7 @@ All participants should familiarize themselves with:
   * Rocket Insights
   ![image info](rocket_logo_150s.png)
   * Wasabi Technologies
-  ![image info](Wasabi_150w.jpg)
+  ![image info](Wasabi_150w.png)
   * Wayfair
   ![image info](Wayfair_300w.png)
   * More to come!
