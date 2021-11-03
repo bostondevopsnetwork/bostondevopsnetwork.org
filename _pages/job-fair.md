@@ -31,13 +31,11 @@ All participants should familiarize themselves with:
 
 ![image info](Klaviyo_300w.png) &#32; &#32;![image info](Pienso_150w.jpg)
 
-
 <p align="center">
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Wasabi_150w.png?raw=true" alt="Wasabi Technologies logo"/>
 </p>
 
 ![image info](Wayfair_300w.png) &#32; &#32;![image info](rocket_logo_150s.png)
-
 
 <div style="text-align:center">
 <br /><br />
