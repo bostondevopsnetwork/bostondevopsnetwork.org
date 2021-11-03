@@ -28,7 +28,7 @@ All participants should familiarize themselves with:
 
 <p align="center">
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Athenahealth_300w.png?raw=true" alt="Athena Health logo"/>
-<a href="https://www.athenahealth.com/">foo</a>
+<a href="https://www.athenahealth.com/"></a>
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/BostonC_300w.png?raw=true" alt="Boston College logo"/>
 </p>
 
