@@ -35,9 +35,13 @@ All participants should familiarize themselves with:
 </a></p>
 
 <p align="center">
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Harvard_300w.png?raw=true" alt="Harvard University Information Technology logo"/>
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/FOCAL_309w.png?raw=true" alt="f0cal logo"/>
-</p>
+<a href="https://huit.harvard.edu"> 
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Harvard_300w.png?raw=true" alt="Harvard University Information Technology logo">
+</a>
+
+<a href="https://www.f0cal.com">  
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/FOCAL_309w.png?raw=true" alt="f0cal logo">
+</a></p>
 
 <p align="center">
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Klaviyo_300w.png?raw=true" alt="Klaviyo logo"/>&#32;&#32;&#32;&#32;
