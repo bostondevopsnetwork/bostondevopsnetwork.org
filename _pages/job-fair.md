@@ -34,7 +34,6 @@ All participants should familiarize themselves with:
 
 <p align="center">
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Wasabi_150w.png?raw=true" alt="Wasabi Technologies logo"/>
-Wasabi_150w.png
 </p>
 
 ![image info](Wayfair_300w.png) &#32; &#32;![image info](rocket_logo_150s.png)
