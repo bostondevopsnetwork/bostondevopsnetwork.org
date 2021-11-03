@@ -12,14 +12,10 @@ The Job fair will start at 9:30AM Eastern and go until 3PM Eastern with games fo
 
 Agenda is as follows:
 
-9:30-10:00 Introduction and Hiring Partner showcase
-
-10:00-12:00 Open Booths
-
-12:00-1:00 Lunch Break
-
-1:00-3:00 Open Booths
-
+9:30-10:00 Introduction and Hiring Partner showcase<br />
+10:00-12:00 Open Booths<br />
+12:00-1:00 Lunch Break<br />
+1:00-3:00 Open Booths<br />
 3:00-4:00 Wrap-up + Games
 
 All participants should familiarize themselves with:
