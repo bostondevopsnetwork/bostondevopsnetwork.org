@@ -54,9 +54,13 @@ All participants should familiarize themselves with:
 </a></p>
 
 <p align="center">
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Wasabi_150w.png?raw=true" alt="Wasabi Technologies logo"/>
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/rocket_logo_150s.png?raw=true" alt="Rocket Insights logo"/>
-</p>
+<a href="https://wasabi.com"> 
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Wasabi_150w.png?raw=true" alt="Wasabi Technologies logo">
+</a>
+
+<a href="https://www.rocketinsights.com"> 
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/rocket_logo_150s.png?raw=true" alt="Rocket Insights logo">
+</a></p>
 
 <p align="center">
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Wayfair_300w.png?raw=true" alt="Wayfair logo"/>
