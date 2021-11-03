@@ -51,8 +51,8 @@ All participants should familiarize themselves with:
 
 <p align="center">
 <a href="https://klaviyo.com"> 
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Klaviyo_300w.png?raw=true" alt="Klaviyo logo">&#32;&#32;&#32;&#32;
-</a>
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Klaviyo_300w.png?raw=true" alt="Klaviyo logo">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://pienso.com"> 
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Pienso_150w.jpg?raw=true" alt="Pienso logo">
