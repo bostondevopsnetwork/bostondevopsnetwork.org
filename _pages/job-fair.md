@@ -36,6 +36,11 @@ All participants should familiarize themselves with:
 </a></p>
 
 <p align="center">
+<a href="https://www.edx.org"> 
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/EdX_200w.png?raw=true" alt="EdX logo">
+</a></p>
+
+<p align="center">
 <a href="https://huit.harvard.edu"> 
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Harvard_300w.png?raw=true" alt="Harvard University Information Technology logo">
 </a>
