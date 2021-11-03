@@ -25,9 +25,10 @@ All participants should familiarize themselves with:
   * Wasabi Technologies
   * Wayfair
 
-
 <p align="center">
-<a href="https://www.athenahealth.com/"></a><img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Athenahealth_300w.png?raw=true" alt="Athena Health logo"/>
+<a href="https://www.athenahealth.com">
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Athenahealth_300w.png?raw=true" alt="Athena Health logo">
+</a>
 
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/BostonC_300w.png?raw=true" alt="Boston College logo"/>
 </p>
