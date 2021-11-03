@@ -19,17 +19,26 @@ All participants should familiarize themselves with:
   * Boston College
   * f0cal
   * Harvard University Information Technology
-  * Klaviyo
+  * KlaviyoKlaviyo_300w.png
   * Pienso
   * Rocket Insights
   * Wasabi Technologies
   * Wayfair
 
-![image info](Athenahealth_300w.png) &#32; &#32;![image info](BostonC_300w.png)
+<p align="center">
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Athenahealth_300w.png?raw=true" alt="Athena Health logo"/>
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/BostonC_300w.png?raw=true" alt="Boston College logo"/>
+</p>
 
-![image info](Harvard_300w.png) &#32; &#32;![image info](FOCAL_309w.png) 
+<p align="center">
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Harvard_300w.png?raw=true" alt="Harvard University Information Technology logo"/>
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/FOCAL_309w.png?raw=true" alt="f0cal logo"/>
+</p>
 
-![image info](Klaviyo_300w.png) &#32; &#32;![image info](Pienso_150w.jpg)
+<p align="center">
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Klaviyo_300w.png?raw=true" alt="Klaviyo logo"/>
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Pienso_150w.jpg?raw=true" alt="Pienso logo"/>
+</p>
 
 <p align="center">
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Wasabi_150w.png?raw=true" alt="Wasabi Technologies logo"/>
