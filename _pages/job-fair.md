@@ -28,7 +28,8 @@ All participants should familiarize themselves with:
 
 ![image info](Athenahealth_300w.png)![image info](BostonC_300w.png)
 ![image info](FOCAL_309w.png)![image info](Harvard_300w.png)![image info](Klaviyo_300w.png)
-![image info](Pienso_150w.jpg)![image info](rocket_logo_150s.png)![image info](Wasabi_150w.png)![image info](Wayfair_300w.png)
+![image info](Pienso_150w.jpg)
+![image info](rocket_logo_150s.png)![image info](Wasabi_150w.png)![image info](Wayfair_300w.png)
 
 
 <div style="text-align:center">
