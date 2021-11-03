@@ -17,22 +17,20 @@ All participants should familiarize themselves with:
 * Join our Hiring Partners, including:
   * Boston College
 ![image info](BostonC_300w.png){: style="float:right;"}
-
   * f0cal
-  ![image info](FOCAL_309w.png){: style="float:right;"}
-  
+![image info](FOCAL_309w.png){: style="float:right;"}
   * Harvard University Information Technology
-  ![image info](Harvard_300w.png){: style="float:right;"}
+![image info](Harvard_300w.png){: style="float:right;"}
   * Klaviyo
-  ![image info](Klaviyo_300w.png){: style="float:right;"}
+![image info](Klaviyo_300w.png){: style="float:right;"}
   * Pienso
-  ![image info](Pienso_150w.jpg){: style="float:right;"}
+![image info](Pienso_150w.jpg){: style="float:right;"}
   * Rocket Insights
-  ![image info](rocket_logo_150s.png){: style="float:right;"}
+![image info](rocket_logo_150s.png){: style="float:right;"}
   * Wasabi Technologies
-  ![image info](Wasabi_150w.png){: style="float:right;"}
+![image info](Wasabi_150w.png){: style="float:right;"}
   * Wayfair
-  ![image info](Wayfair_300w.png){: style="float:right;"}
+![image info](Wayfair_300w.png){: style="float:right;"}
   * More to come!
 
 <div style="text-align:center">
