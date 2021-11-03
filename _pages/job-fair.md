@@ -16,13 +16,8 @@ All participants should familiarize themselves with:
 * [Example Questions that might be asked](/example-job-fair-questions) (by seekers and partners)
 * Join our Hiring Partners, including:
   * Boston College
-<div>
- <style>
-  {text-align:right}
- </style> 
+ <style="text-align:right;">
  ![image info](BostonC_300w.png)
- Format: ![Boston College logo](https://www.bc.edu)
-</div>
   * f0cal
   ![image info](FOCAL_309w.png)
   * Harvard University Information Technology
