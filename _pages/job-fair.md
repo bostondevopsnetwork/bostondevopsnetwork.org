@@ -9,11 +9,17 @@ permalink: /job-fair/
 
 # What to Expect
 The Job fair will start at 9:30AM Eastern and go until 3PM Eastern with games following. Job seekers are welcome to attend whenever convenient for them.
+
 Agenda is as follows:
+
 9:30-10:00 Introduction and Hiring Partner showcase
+
 10:00-12:00 Open Booths
+
 12:00-1:00 Lunch Break
+
 1:00-3:00 Open Booths
+
 3:00-4:00 Wrap-up + Games
 
 All participants should familiarize themselves with:
