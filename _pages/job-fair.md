@@ -19,7 +19,7 @@ All participants should familiarize themselves with:
   * Boston College
   * f0cal
   * Harvard University Information Technology
-  * KlaviyoKlaviyo_300w.png
+  * Klaviyo
   * Pienso
   * Rocket Insights
   * Wasabi Technologies
