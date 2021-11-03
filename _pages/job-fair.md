@@ -24,6 +24,7 @@ All participants should familiarize themselves with:
   * Klaviyo
   ![image info](Klaviyo_300w.png)
   * Pienso
+  ![image info](Pienso_200w.png)
   * Rocket Insights
   ![image info](rocket_logo_150s.png)
   * Wasabi Technologies
