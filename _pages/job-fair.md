@@ -63,8 +63,9 @@ All participants should familiarize themselves with:
 </a></p>
 
 <p align="center">
+<a href="https://www.wayfair.com"> 
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Wayfair_300w.png?raw=true" alt="Wayfair logo"/>
-</p>
+</a></p>
 
 <div style="text-align:center">
 <br /><br />
