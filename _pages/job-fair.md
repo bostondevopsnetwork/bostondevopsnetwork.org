@@ -31,7 +31,7 @@ All participants should familiarize themselves with:
 
 ![image info](Klaviyo_300w.png) - - -![image info](Pienso_150w.jpg)
 
-![image info](Wasabi_150w.png)
+![image info](Wasabi_150w.png){: width=150 height=100 style="float:right; padding:16px"}
 
 ![image info](Wayfair_300w.png) - - -![image info](rocket_logo_150s.png)
 
