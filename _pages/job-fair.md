@@ -17,6 +17,7 @@ All participants should familiarize themselves with:
 * Join our Hiring Partners, including:
   * Athenahealth
   * Boston College
+  * EdX
   * f0cal
   * Harvard University Information Technology
   * Klaviyo
@@ -44,9 +45,13 @@ All participants should familiarize themselves with:
 </a></p>
 
 <p align="center">
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Klaviyo_300w.png?raw=true" alt="Klaviyo logo"/>&#32;&#32;&#32;&#32;
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Pienso_150w.jpg?raw=true" alt="Pienso logo"/>
-</p>
+<a href="https://klaviyo.com"> 
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Klaviyo_300w.png?raw=true" alt="Klaviyo logo">&#32;&#32;&#32;&#32;
+</a>
+
+<a href="https://pienso.com"> 
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Pienso_150w.jpg?raw=true" alt="Pienso logo">
+</a></p>
 
 <p align="center">
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Wasabi_150w.png?raw=true" alt="Wasabi Technologies logo"/>
