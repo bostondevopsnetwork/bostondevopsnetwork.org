@@ -30,8 +30,9 @@ All participants should familiarize themselves with:
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Athenahealth_300w.png?raw=true" alt="Athena Health logo">
 </a>
 
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/BostonC_300w.png?raw=true" alt="Boston College logo"/>
-</p>
+<a href="https://www.bc.edu"> 
+<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/BostonC_300w.png?raw=true" alt="Boston College logo">
+</a></p>
 
 <p align="center">
 <img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Harvard_300w.png?raw=true" alt="Harvard University Information Technology logo"/>
