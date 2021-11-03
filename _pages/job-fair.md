@@ -25,9 +25,9 @@ All participants should familiarize themselves with:
   * Wasabi Technologies
   * Wayfair
 
-![image info](Athenahealth_300w.png)- - -![image info](BostonC_300w.png)
+![image info](Athenahealth_300w.png)![image info](BostonC_300w.png)
 
-![image info](Harvard_300w.png) - - -![image info](FOCAL_309w.png) 
+![image info](Harvard_300w.png)![image info](FOCAL_309w.png) 
 
 ![image info](Klaviyo_300w.png) - - -![image info](Pienso_150w.jpg)
 
