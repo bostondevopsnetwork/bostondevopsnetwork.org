@@ -15,23 +15,19 @@ All participants should familiarize themselves with:
 * Our [Code of Conduct for the event](/event-code-of-conduct)
 * [Example Questions that might be asked](/example-job-fair-questions) (by seekers and partners)
 * Join our Hiring Partners, including:
+  * Athenahealth
   * Boston College
-![image info](BostonC_300w.png){: style="float:right;"}
   * f0cal
-![image info](FOCAL_309w.png){: style="float:right;"}
   * Harvard University Information Technology
-![image info](Harvard_300w.png){: style="float:right;"}
   * Klaviyo
-![image info](Klaviyo_300w.png){: style="float:right;"}
   * Pienso
-![image info](Pienso_150w.jpg){: style="float:right;"}
   * Rocket Insights
-![image info](rocket_logo_150s.png){: style="float:right;"}
   * Wasabi Technologies
-![image info](Wasabi_150w.png){: style="float:right;"}
   * Wayfair
-![image info](Wayfair_300w.png){: style="float:right;"}
-  * More to come!
+
+
+![image info](BostonC_300w.png)![image info](FOCAL_309w.png)![image info](Harvard_300w.png)![image info](Klaviyo_300w.png)![image info](Pienso_150w.jpg)![image info](rocket_logo_150s.png)![image info](Wasabi_150w.png)![image info](Wayfair_300w.png)
+
 
 <div style="text-align:center">
 <br /><br />
