@@ -12,14 +12,36 @@ layout: home
 <div class="home-page-list-item-partone" markdown=1>
 ## Virtual Job Fair, November 2021
 An opportunity to network and connect people from the DevOps community.
+
+<div style="font-size:2em;margin-top:0px;margin-bottom:0px;">
+<span>Time left: </span>&nbsp;
+<span id="job_fair_countdown"></span>
 </div>
-<div class="home-page-list-item-parttwo">
-<p id="job_fair_countdown" style="font-size:2.5em;margin-top:0px;margin-bottom:0px;"></p>
 <script src="/assets/js/countdown.js"></script>
 <script>createCountdown("Nov 4, 2021 16:30:00","job_fair_countdown");</script>
-</div>
-</div>
+
 <a href="/job-fair/" class="btn btn--success">Join Us Live!</a>
+
+</div>
+<div class="home-page-list-item-parttwo">
+
+<div markdown=1>
+
+| 9:30-10:00 | Introduction and Hiring Partner showcase |
+| 10:00-12:00 | Open Booths |
+| 12:00-1:00 | Lunch Break |
+| 1:00-3:00 | Open Booths |
+| 3:00-4:00 | Wrap-up + Games |
+
+<div style="text-align:center;font-size:0.8em;" markdown=1>
+*(Times are in EST)*
+</div>
+
+</div>
+
+</div>
+</div>
+<!-- underneath --->
 </div>
 
 <br /><br />
