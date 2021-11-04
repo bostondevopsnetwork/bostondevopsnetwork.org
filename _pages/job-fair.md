@@ -36,48 +36,48 @@ All participants should familiarize themselves with:
 
 <p align="center">
 <a href="https://www.athenahealth.com">
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Athenahealth_300w.png?raw=true" alt="Athena Health logo">
+<img src="/assets/images/sponsors/Athenahealth_300w.png?raw=true" alt="Athena Health logo">
 </a>
 
-<a href="https://www.bc.edu"> 
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/BostonC_300w.png?raw=true" alt="Boston College logo">
+<a href="https://www.bc.edu">
+<img src="/assets/images/sponsors/BostonC_300w.png?raw=true" alt="Boston College logo">
 </a></p>
 
 <p align="center">
-<a href="https://www.edx.org"> 
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/edX_200w copy.png?raw=true" alt="edX logo">
+<a href="https://www.edx.org">
+<img src="/assets/images/sponsors/edX_200w copy.png?raw=true" alt="edX logo">
 </a></p>
 
 <p align="center">
-<a href="https://huit.harvard.edu"> 
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Harvard_300w.png?raw=true" alt="Harvard University Information Technology logo">
+<a href="https://huit.harvard.edu">
+<img src="/assets/images/sponsors/Harvard_300w.png?raw=true" alt="Harvard University Information Technology logo">
 </a>
 
 <a href="https://www.f0cal.com">  
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/FOCAL_309w.png?raw=true" alt="f0cal logo">
+<img src="/assets/images/sponsors/FOCAL_309w.png?raw=true" alt="f0cal logo">
 </a></p>
 
 <p align="center">
-<a href="https://klaviyo.com"> 
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Klaviyo_300w.png?raw=true" alt="Klaviyo logo">
+<a href="https://klaviyo.com">
+<img src="/assets/images/sponsors/Klaviyo_300w.png?raw=true" alt="Klaviyo logo">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://pienso.com"> 
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Pienso_150w.jpg?raw=true" alt="Pienso logo">
+<a href="https://pienso.com">
+<img src="/assets/images/sponsors/Pienso_150w.jpg?raw=true" alt="Pienso logo">
 </a></p>
 
 <p align="center">
-<a href="https://wasabi.com"> 
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Wasabi_150w.png?raw=true" alt="Wasabi Technologies logo">
+<a href="https://wasabi.com">
+<img src="/assets/images/sponsors/Wasabi_150w.png?raw=true" alt="Wasabi Technologies logo">
 </a>
 
-<a href="https://www.rocketinsights.com"> 
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/rocket_logo_150s.png?raw=true" alt="Rocket Insights logo">
+<a href="https://www.rocketinsights.com">
+<img src="/assets/images/sponsors/rocket_logo_150s.png?raw=true" alt="Rocket Insights logo">
 </a></p>
 
 <p align="center">
-<a href="https://www.wayfair.com"> 
-<img src="https://github.com/bostondevopsnetwork/bostondevopsnetwork.org/blob/main/_pages/Wayfair_300w.png?raw=true" alt="Wayfair logo"/>
+<a href="https://www.wayfair.com">
+<img src="/assets/images/sponsors/Wayfair_300w.png?raw=true" alt="Wayfair logo"/>
 </a></p>
 
 <div style="text-align:center">
