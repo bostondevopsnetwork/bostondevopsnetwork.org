@@ -1,38 +1,33 @@
 ---
 id: job-fair
-title: Job Fair
+title: Job Fair - Happening NOW!
 layout: single
 permalink: /job-fair/
 ---
 
-> The Boston DevOps community will come together on November 4th, 2021 for a virtual job fair. We aim to connect those looking for DevOps Engineer, Site Reliability Engineer, Platform Engineer, Systems Engineer, and similar positions, with organizations aligned with the Boston DevOps Network's values of inclusion, continuous learning, transparency, "good-humored grit," effective communication, and technological excellence.
+<a href="https://bit.ly/bdo-job-fair-discord" target="blank" class="btn btn--success">JOIN US ON DISCORD!</a>
+<a href="https://www.twitch.tv/bdon_vjf" target="blank" class="btn btn--success">WATCH ON TWITCH.TV</a>
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.25%;"><iframe src="https://embed.streamyard.com/bq2w7x6jcd25?t=5m9s" width="100%" height="100%" frameborder="0" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 # What to Expect
-The Job fair will start at 9:30AM Eastern and go until 3PM Eastern with games following. Job seekers are welcome to attend whenever convenient for them.
+
+> The Boston DevOps community will come together on November 4th, 2021 for a virtual job fair. We aim to connect those looking for DevOps Engineer, Site Reliability Engineer, Platform Engineer, Systems Engineer, and similar positions, with organizations aligned with the Boston DevOps Network's values of inclusion, continuous learning, transparency, "good-humored grit," effective communication, and technological excellence.
+
+The Job fair will start on Nov 4th 2021 at 9:30AM Eastern and go until 3PM Eastern with games following. Job seekers are welcome to attend whenever convenient for them.
 
 Agenda is as follows:
 
-9:30-10:00 Introduction and Hiring Partner showcase<br />
-10:00-12:00 Open Booths<br />
-12:00-1:00 Lunch Break<br />
-1:00-3:00 Open Booths<br />
-3:00-4:00 Wrap-up + Games
+| 9:30-10:00 | Introduction and Hiring Partner showcase |
+| 10:00-12:00 | Open Booths |
+| 12:00-1:00 | Lunch Break |
+| 1:00-3:00 | Open Booths |
+| 3:00-4:00 | Wrap-up + Games |
 
 All participants should familiarize themselves with:
 
 * Our [Code of Conduct for the event](/event-code-of-conduct)
 * [Example Questions that might be asked](/example-job-fair-questions) (by seekers and partners)
-* Join our Hiring Partners, including:
-  * Athenahealth
-  * Boston College
-  * edX
-  * f0cal
-  * Harvard University Information Technology
-  * Klaviyo
-  * Pienso
-  * Rocket Insights
-  * Wasabi Technologies
-  * Wayfair
 
 <p align="center">
 <a href="https://www.athenahealth.com">

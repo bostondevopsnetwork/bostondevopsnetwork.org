@@ -19,7 +19,7 @@ An opportunity to network and connect people from the DevOps community.
 <script>createCountdown("Nov 4, 2021 16:30:00","job_fair_countdown");</script>
 </div>
 </div>
-<a href="/job-fair/" class="btn btn--success">Learn More</a>
+<a href="/job-fair/" class="btn btn--success">Join Us Live!</a>
 </div>
 
 <br /><br />
