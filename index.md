@@ -5,7 +5,7 @@ superheadline: "Teaching, learning, and networking for technologists in the grea
 layout: home
 ---
 
-# Upcoming Events
+# Happening NOW!
 
 <div class="home-page-list-item">
 <div class="flexbox">
@@ -16,7 +16,7 @@ An opportunity to network and connect people from the DevOps community.
 <div class="home-page-list-item-parttwo">
 <p id="job_fair_countdown" style="font-size:2.5em;margin-top:0px;margin-bottom:0px;"></p>
 <script src="/assets/js/countdown.js"></script>
-<script>createCountdown("Nov 4, 2021 10:00:00","job_fair_countdown");</script>
+<script>createCountdown("Nov 4, 2021 16:30:00","job_fair_countdown");</script>
 </div>
 </div>
 <a href="/job-fair/" class="btn btn--success">Learn More</a>

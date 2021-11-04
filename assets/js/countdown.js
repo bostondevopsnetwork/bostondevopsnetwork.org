@@ -19,7 +19,7 @@ function createCountdown(datetime,docid) {
 
     var el = document.getElementById(docid)
     // Output the result in an element with id="demo"
-    el.innerHTML = days + "d " + hours + "h "
+    el.innerHTML = (days > 0 ? days + "d " : "") + (hours > 0 ? hours + "h " : "")
     + minutes + "m " + seconds + "s ";
 
     // If the count down is over, write some text
