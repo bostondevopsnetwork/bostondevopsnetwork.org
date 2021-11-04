@@ -25,7 +25,7 @@ All participants should familiarize themselves with:
 * Join our Hiring Partners, including:
   * Athenahealth
   * Boston College
-  * EdX
+  * edX
   * f0cal
   * Harvard University Information Technology
   * Klaviyo
