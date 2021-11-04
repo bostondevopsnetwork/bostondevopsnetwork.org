@@ -5,7 +5,7 @@ layout: single
 permalink: /job-fair/
 ---
 
-> The Boston DevOps community will come together on November 4th, 2021 for a virtual job fair. We aim to connect those looking for DevOps Engineer, Site Reliability Engineer, Platform Engineer, Systems Engineer, and similar positions, with organizations aligned with the Boston DevOps Network's values of inclusion, continuous learning, transparency, "good-humored grit," effective communication, and technological excellence. Stay tuned for updates!
+> The Boston DevOps community will come together on November 4th, 2021 for a virtual job fair. We aim to connect those looking for DevOps Engineer, Site Reliability Engineer, Platform Engineer, Systems Engineer, and similar positions, with organizations aligned with the Boston DevOps Network's values of inclusion, continuous learning, transparency, "good-humored grit," effective communication, and technological excellence.
 
 # What to Expect
 The Job fair will start at 9:30AM Eastern and go until 3PM Eastern with games following. Job seekers are welcome to attend whenever convenient for them.
