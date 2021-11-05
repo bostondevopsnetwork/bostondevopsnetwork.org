@@ -1,12 +1,14 @@
 ---
 id: job-fair
-title: Job Fair - Happening NOW!
+title: Job Fair - Nov 4th 2021
 layout: single
 permalink: /job-fair/
 ---
 
+<!--
 <a href="https://bit.ly/bdo-job-fair-discord" target="blank" class="btn btn--success">JOIN US ON DISCORD!</a>
 <a href="https://www.twitch.tv/bdon_vjf" target="blank" class="btn btn--success">WATCH ON TWITCH.TV</a>
+-->
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.25%;"><iframe src="https://embed.streamyard.com/bq2w7x6jcd25?t=5m9s" width="100%" height="100%" frameborder="0" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
@@ -78,6 +80,7 @@ All participants should familiarize themselves with:
 <div style="text-align:center">
 <br /><br />
 
+<!--
 <h1>Get Involved!</h1>
 <a href="https://bit.ly/bdon-job-fair-2021-partners" target="blank" class="btn btn--success">I AM HIRING</a> <a href="https://bit.ly/bdon-job-fair-2021" target="blank" class="btn btn--success">I AM JOB SEEKING</a>
 </div>
@@ -86,3 +89,5 @@ All participants should familiarize themselves with:
 
 If you would like to volunteer along with our organizers, please
 [contact us](/contact/) directly.
+
+-->

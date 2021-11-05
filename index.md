@@ -5,22 +5,20 @@ superheadline: "Teaching, learning, and networking for technologists in the grea
 layout: home
 ---
 
-# Happening NOW!
+
+# Prior Events
 
 <div class="home-page-list-item">
 <div class="flexbox">
 <div class="home-page-list-item-partone" markdown=1>
-## Virtual Job Fair, November 2021
+## Virtual Job Fair, November 4th 2021
 An opportunity to network and connect people from the DevOps community.
 
 <div style="font-size:2em;margin-top:0px;margin-bottom:0px;">
-<span>Time left: </span>&nbsp;
 <span id="job_fair_countdown"></span>
 </div>
 <script src="/assets/js/countdown.js"></script>
 <script>createCountdown("Nov 4, 2021 16:30:00","job_fair_countdown");</script>
-
-<a href="/job-fair/" class="btn btn--success">Join Us Live!</a>
 
 </div>
 <div class="home-page-list-item-parttwo">
@@ -44,9 +42,7 @@ An opportunity to network and connect people from the DevOps community.
 <!-- underneath --->
 </div>
 
-<br /><br />
 
-# Prior Events
 
 <div class="home-page-list-item">
 <div class="flexbox">
