@@ -4,6 +4,8 @@ main:
     url: /mission/
   - title: "Values"
     url: /values/
+  - title: "News"
+    url: /news/
   - title: "Job Fair"
     url: /job-fair/
   - title: "Contact"
