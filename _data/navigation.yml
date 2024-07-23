@@ -1,12 +1,14 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
   - title: "Mission"
     url: /mission/
   - title: "Values"
     url: /values/
   - title: "News"
     url: /news/
-  - title: "Job Fair"
-    url: /job-fair/
+  # - title: "Job Fair"
+  #   url: /job-fair/
   - title: "Contact"
     url: /contact/
