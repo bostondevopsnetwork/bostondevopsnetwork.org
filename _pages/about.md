@@ -93,9 +93,10 @@ In the Greater Boston Area, this spirit of alignment is embodied as a self-organ
  
 The “Boston DevOps Network” was formed to maintain this practitioner community’s dedication for helping others and high-tech teams achieve their industry goals and ensure paths for continuous improvement. Since 2017, members of this community have served and rotated in a Board of Directors which consists of volunteer practitioners dedicated to driving four key aspects of its community’s logistics. Already conforming to non-profit good practices, its Board of Directors actively supports:
 
-* organization and logistics of a yearly 200-500 seat DevOps event since 2011
-* a long-standing monthly in-person industry-relevant meetup open to the public
-* an actively moderated online community for practitioners to discuss and follow-up when not in-person
+* organization and logistics of a [yearly 200-500 seat DevOps event since 2011](https://devopsdays.org/events/2024-boston/welcome/)
+* a [long-standing monthly in-person industry-relevant meetup](https://www.meetup.com/boston-devops/) open to the public
+* an [actively moderated online community for DevOps practitioners](https://bostondevops.github.io/) to discuss and follow-up when not in-person
+* [occasional job fairs](/job-fair/) for the DevOps and adjacent professional communities
 * growth initiatives aligned with other area non-profits and educational programs
 
 Each Director contributes between 2-4 hours of real work per week, often more, and avoid conflict of interest to any personal outside work. Board members agreed to receive no compensation for their role excepting for critical group-approved expenses incurred along the way. Board members voluntarily lead attainment efforts in these four key areas of mutual viability to achieve the community’s naturally aligned goal. Collectively and consistently, this Board has achieved its mission of openly providing learning opportunities in critical areas of the high-tech industry, primarily through practitioner-led discussions and networking events in the Greater Boston Area and online. Currently, all Board members live in the State of Massachusetts which renders the Boston DevOps Network and its community as local examples of the positive impact that self-organizing practitioner communities have on key industries and their economics.
