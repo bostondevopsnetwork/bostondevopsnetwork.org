@@ -46,25 +46,9 @@ The Boston DevOps Network Board of Directors consists of a dedicated team of org
 
     <div class="memberbox">
         <div class="board-member">
-        <img src="/assets/images/boardmembers/michaelclark.jpg?raw=true" alt="Michael Thomas Clark" class="profile-pic">
-        <div class="member-name">Michael Thomas Clark</div>
-        Treasurer
-        </div>
-    </div>
-
-    <div class="memberbox">
-        <div class="board-member">
-        <img src="/assets/images/boardmembers/paulsbruce.jpg?raw=true" alt="Paul Bruce" class="profile-pic">
-        <div class="member-name">Paul Bruce</div>
-        Clerk
-        </div>
-    </div>
-
-    <div class="memberbox">
-        <div class="board-member">
         <img src="/assets/images/boardmembers/kateruh.jpg?raw=true" alt="Kate Nachbar (Ruh)" class="profile-pic">
         <div class="member-name">Kate Nachbar (Ruh)</div>
-        At-large Director
+        Clerk
         </div>
     </div>
 
@@ -72,7 +56,7 @@ The Boston DevOps Network Board of Directors consists of a dedicated team of org
         <div class="board-member">
         <img src="/assets/images/boardmembers/carminegranucci.jpg?raw=true" alt="Carmine Granucci" class="profile-pic">
         <div class="member-name">Carmine Granucci</div>
-        At-large Director
+        Treasurer
         </div>
     </div>
 
