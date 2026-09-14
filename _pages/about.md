@@ -46,14 +46,6 @@ The Boston DevOps Network Board of Directors consists of a dedicated team of org
 
     <div class="memberbox">
         <div class="board-member">
-        <img src="/assets/images/boardmembers/kateruh.jpg?raw=true" alt="Kate Nachbar (Ruh)" class="profile-pic">
-        <div class="member-name">Kate Nachbar (Ruh)</div>
-        Clerk
-        </div>
-    </div>
-
-    <div class="memberbox">
-        <div class="board-member">
         <img src="/assets/images/boardmembers/carminegranucci.jpg?raw=true" alt="Carmine Granucci" class="profile-pic">
         <div class="member-name">Carmine Granucci</div>
         Treasurer
